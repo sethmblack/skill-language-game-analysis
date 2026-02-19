@@ -4,7 +4,7 @@ description: Examine how words actually function in their contexts of use rather
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4356
+  version: 1.0.4357
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - language-game-analysis
